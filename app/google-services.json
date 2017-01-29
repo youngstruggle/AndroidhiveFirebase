@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "316966975576",
+    "firebase_url": "https://androidhive-40aef.firebaseio.com",
+    "project_id": "androidhive-40aef",
+    "storage_bucket": "androidhive-40aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316966975576:android:d3d3f8bf516b91e0",
+        "android_client_info": {
+          "package_name": "nana.com.androidhivefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316966975576-6kc09stc4is4sqc075p2aa05fashab4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KnttY4W8_6hWNJMQFTsrn9LeicTL1BQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
